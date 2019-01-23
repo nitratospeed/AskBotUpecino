@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="b042f69d-b6b1-49ec-aad2-ba5fccaee563" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:64064/AskBotUpecinoService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="AskBotUpecinoService2.xsd" MetadataType="Schema" ID="05e5b96f-92f9-4051-903a-6ae6a2e47886" SourceId="1" SourceUrl="http://localhost:64064/AskBotUpecinoService.svc?xsd=xsd2" />
+    <MetadataFile FileName="AskBotUpecinoService.xsd" MetadataType="Schema" ID="c7649e48-8e7c-4523-b24a-362572fcd8ab" SourceId="1" SourceUrl="http://localhost:64064/AskBotUpecinoService.svc?xsd=xsd0" />
+    <MetadataFile FileName="AskBotUpecinoService.wsdl" MetadataType="Wsdl" ID="cece0f2c-df65-4ee8-88bf-99f564c5a7a6" SourceId="1" SourceUrl="http://localhost:64064/AskBotUpecinoService.svc?wsdl" />
+    <MetadataFile FileName="AskBotUpecinoService.disco" MetadataType="Disco" ID="14f3435d-8bb5-4bf8-9ee7-ab5068341447" SourceId="1" SourceUrl="http://localhost:64064/AskBotUpecinoService.svc?disco" />
+    <MetadataFile FileName="AskBotUpecinoService1.xsd" MetadataType="Schema" ID="9d53da42-9499-46d7-abcf-cd97df94386f" SourceId="1" SourceUrl="http://localhost:64064/AskBotUpecinoService.svc?xsd=xsd1" />
+    <MetadataFile FileName="AskBotUpecinoService3.xsd" MetadataType="Schema" ID="40da4ef9-1f2e-4805-ae48-2bf6adb1dc3c" SourceId="1" SourceUrl="http://localhost:64064/AskBotUpecinoService.svc?xsd=xsd3" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
